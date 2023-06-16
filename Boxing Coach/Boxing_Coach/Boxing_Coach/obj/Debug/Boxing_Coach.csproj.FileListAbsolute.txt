@@ -1,0 +1,16 @@
+C:\Users\Erick\Documents\Aprendizaje de lenguajes de programacion\C#\GUI\Boxing Coach\Boxing_Coach\Boxing_Coach\bin\Debug\Boxing_Coach.exe.config
+C:\Users\Erick\Documents\Aprendizaje de lenguajes de programacion\C#\GUI\Boxing Coach\Boxing_Coach\Boxing_Coach\bin\Debug\Boxing_Coach.exe
+C:\Users\Erick\Documents\Aprendizaje de lenguajes de programacion\C#\GUI\Boxing Coach\Boxing_Coach\Boxing_Coach\bin\Debug\Boxing_Coach.pdb
+C:\Users\Erick\Documents\Aprendizaje de lenguajes de programacion\C#\GUI\Boxing Coach\Boxing_Coach\Boxing_Coach\obj\Debug\Boxing_Coach.csproj.AssemblyReference.cache
+C:\Users\Erick\Documents\Aprendizaje de lenguajes de programacion\C#\GUI\Boxing Coach\Boxing_Coach\Boxing_Coach\obj\Debug\Boxing_Coach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erick\Documents\Aprendizaje de lenguajes de programacion\C#\GUI\Boxing Coach\Boxing_Coach\Boxing_Coach\obj\Debug\MainWindow.g.cs
+C:\Users\Erick\Documents\Aprendizaje de lenguajes de programacion\C#\GUI\Boxing Coach\Boxing_Coach\Boxing_Coach\obj\Debug\App.g.cs
+C:\Users\Erick\Documents\Aprendizaje de lenguajes de programacion\C#\GUI\Boxing Coach\Boxing_Coach\Boxing_Coach\obj\Debug\Boxing_Coach_MarkupCompile.cache
+C:\Users\Erick\Documents\Aprendizaje de lenguajes de programacion\C#\GUI\Boxing Coach\Boxing_Coach\Boxing_Coach\obj\Debug\Boxing_Coach_MarkupCompile.lref
+C:\Users\Erick\Documents\Aprendizaje de lenguajes de programacion\C#\GUI\Boxing Coach\Boxing_Coach\Boxing_Coach\obj\Debug\MainWindow.baml
+C:\Users\Erick\Documents\Aprendizaje de lenguajes de programacion\C#\GUI\Boxing Coach\Boxing_Coach\Boxing_Coach\obj\Debug\Boxing_Coach.g.resources
+C:\Users\Erick\Documents\Aprendizaje de lenguajes de programacion\C#\GUI\Boxing Coach\Boxing_Coach\Boxing_Coach\obj\Debug\Boxing_Coach.Properties.Resources.resources
+C:\Users\Erick\Documents\Aprendizaje de lenguajes de programacion\C#\GUI\Boxing Coach\Boxing_Coach\Boxing_Coach\obj\Debug\Boxing_Coach.csproj.GenerateResource.cache
+C:\Users\Erick\Documents\Aprendizaje de lenguajes de programacion\C#\GUI\Boxing Coach\Boxing_Coach\Boxing_Coach\obj\Debug\Boxing_Coach.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\Aprendizaje de lenguajes de programacion\C#\GUI\Boxing Coach\Boxing_Coach\Boxing_Coach\obj\Debug\Boxing_Coach.exe
+C:\Users\Erick\Documents\Aprendizaje de lenguajes de programacion\C#\GUI\Boxing Coach\Boxing_Coach\Boxing_Coach\obj\Debug\Boxing_Coach.pdb

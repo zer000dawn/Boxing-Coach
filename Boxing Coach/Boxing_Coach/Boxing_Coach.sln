@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxing_Coach", "Boxing_Coach\Boxing_Coach.csproj", "{7A944955-2AB8-4D63-933F-5BF4C4CDD9EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{C37167AC-EFED-4AA5-B3DD-B57B7E53B99C}"
+	ProjectSection(SolutionItems) = preProject
+		Boxing_Coach\Transition-sound.wav = Boxing_Coach\Transition-sound.wav
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A944955-2AB8-4D63-933F-5BF4C4CDD9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A944955-2AB8-4D63-933F-5BF4C4CDD9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A944955-2AB8-4D63-933F-5BF4C4CDD9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A944955-2AB8-4D63-933F-5BF4C4CDD9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A535CF74-8689-40F7-B9CE-75C977F897CC}
+	EndGlobalSection
+EndGlobal
